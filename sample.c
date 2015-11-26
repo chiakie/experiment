@@ -7,3 +7,4 @@ int main() {
 }
 
 int oldFunc() { return 1; }
+int newFunc() {return 0;}
